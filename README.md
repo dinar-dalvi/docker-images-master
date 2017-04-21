@@ -1,2 +1,2 @@
 # docker-images
-Docker Images for Applatix 
+Docker Images for open source. 
