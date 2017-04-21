@@ -1,2 +1,2 @@
 # docker-images
-Docker Images for open source. 
+Docker Images for everyone to use. 
