@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER dinar@applatix.com
+MAINTAINER dinardalvi@yahoo.com
 
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
