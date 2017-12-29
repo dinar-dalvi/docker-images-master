@@ -1,12 +1,12 @@
 #
-# Dockerfile to create Applatix tomcat postgres image
+# Dockerfile to create  tomcat postgres image
 #
-# https://github.com/Applatix/docker-images/tree/master/postgres
+# 
 #
 
 # Pull base image.
 FROM ubuntu:14.04
-MAINTAINER Dinar Dalvi <dinar@applatix.com>
+MAINTAINER Dinar Dalvi 
 
 RUN locale-gen en_GB.UTF-8
 ENV LANG en_GB.UTF-8
