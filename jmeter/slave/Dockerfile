@@ -1,7 +1,7 @@
 # Use vinsdocker/jmbase
 
 FROM applatix/jmeter-base
-MAINTAINER dinar@applatix.com
+MAINTAINER dinardalvi@yahoo.com
 
 # Ports to be exposed from the container for JMeter Slaves/Server
 EXPOSE 1099 50000
