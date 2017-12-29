@@ -1,5 +1,5 @@
 FROM php:7.1-apache
-MAINTAINER Dinar dinar@applatix.com
+MAINTAINER Dinar Dalvi
 
 
 # install the PHP extensions we need
