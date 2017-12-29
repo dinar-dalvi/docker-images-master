@@ -1,6 +1,6 @@
 # Pull base image.
 FROM ubuntu:16.04
-MAINTAINER Dinar Dalvi <dinar@applatix.com>
+MAINTAINER Dinar Dalvi 
 
 USER root
 
