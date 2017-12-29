@@ -1,6 +1,6 @@
 # Use Ubuntu
 FROM ubuntu
-MAINTAINER dinar@applatix.com
+MAINTAINER dinardalvi@yahoo.com
 
 USER root
 
