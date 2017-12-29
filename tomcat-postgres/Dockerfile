@@ -1,7 +1,7 @@
 #
-# Dockerfile to create Applatix tomcat postgres image
+# Dockerfile to create  tomcat postgres image
 #
-# https://github.com/Applatix/docker-images/tree/master/postgres
+# 
 #
 
 # Pull base image.
