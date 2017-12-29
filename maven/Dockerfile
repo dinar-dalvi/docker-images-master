@@ -6,7 +6,7 @@
 
 # Pull base image.
 FROM ubuntu:14.04
-MAINTAINER Dinar Dalvi <dinar@applatix.com>
+MAINTAINER Dinar Dalvi 
 
 USER root
 # Install.
